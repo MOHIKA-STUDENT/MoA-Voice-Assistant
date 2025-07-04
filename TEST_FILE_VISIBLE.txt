@@ -1,0 +1,12 @@
+🚨 TEST FILE - IF YOU CAN SEE THIS, THE FILES ARE WORKING! 🚨
+
+This file was created to test if VS Code can see files in the workspace.
+
+Your TailwindCSS files are here:
+- tailwind.config.js
+- postcss.config.js
+
+If you can see this file but not the config files, please:
+1. Refresh VS Code (Ctrl+R or F5)
+2. Reload Window (Ctrl+Shift+P → "Developer: Reload Window")
+3. Check if any files are filtered in VS Code settings
